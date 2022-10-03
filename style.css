@@ -47,8 +47,7 @@ button{
 
 /* Contenitore */
 
-.container{
-    width: 1000px;
+.container_1{
     margin: 0 auto;
     height: 500px;
     background-color: #54FA20;
@@ -58,7 +57,6 @@ button{
 }
 
 .container_2{
-    width: 1000px;
     margin: 0 auto;
     height: 500px;
     background-color: #DEB504;
@@ -68,7 +66,6 @@ button{
 }
 
 .container_3{
-    width: 1000px;
     margin: 0 auto;
     height: 500px;
     background-color: #E022D7;
@@ -78,7 +75,6 @@ button{
 }
 
 .container_4{
-    width: 1000px;
     margin: 0 auto;
     height: auto;
     background-color: #04DEAC;
