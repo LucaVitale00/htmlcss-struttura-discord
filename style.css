@@ -1,0 +1,117 @@
+/* ! Reset */
+body, html{ font-size: 16px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif; box-sizing: border-box;margin: 0;padding: 0;}
+*,*:before,*:after{ box-sizing: border-box; }
+h4,h5,h6, p, ol, ul{margin: 0;padding: 0;}
+ol,ul{list-style-type: none;}
+img{height: auto;}
+a{text-decoration: none;}
+hr{border:none; border-bottom: 1px solid #ddd}
+
+/* Navigazione */
+
+.header{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10%;
+}
+
+.navbar{
+    display: flex;
+}
+
+.navbar li{
+    padding: 15px;
+}
+
+/* Cover */
+
+.cover{
+    background-color: #F55307;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    display: inline;
+    margin: 5px;
+    padding: 5px;
+    background-color: #fff;
+    border: white 1px solid;
+}
+
+/* Contenitore */
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+    background-color: #54FA20;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_2{
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+    background-color: #DEB504;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_3{
+    width: 1000px;
+    margin: 0 auto;
+    height: 500px;
+    background-color: #E022D7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_4{
+    width: 1000px;
+    margin: 0 auto;
+    height: auto;
+    background-color: #04DEAC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+}
+
+.container_4 button{
+    margin-top: 20px;
+}
+
+.footer{
+    background-color: rgb(193, 192, 192);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10%;
+    height: 160px;
+    margin: 0 auto;
+}
+
+.list{
+    
+    margin-top: 13px;
+}
+
+img{
+        padding: 20px;
+}
+
+
+
+
